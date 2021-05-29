@@ -1,0 +1,7 @@
+mqtt:
+  server: localhost
+  port: 1883
+  username: mqtt
+  password: mqtt
+  client_id: door-server
+  topic_prefix: door/
